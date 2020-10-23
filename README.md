@@ -4,5 +4,5 @@
 - 🖋 Writer at [myblog](https://lzhengycy.gitee.io/blog)
 - 🎯 Major in computer science.
 
-![mystatus](https://github-readme-stats.vercel.app/api?username=6yi&&show_icons=true&theme=vue-dark)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6yi&layout=compact&&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![mystatus](https://github-readme-stats.vercel.app/api?username=6yi&&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6yi&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
