@@ -1,4 +1,4 @@
-### Yoo, I'm Hays 6yi 👋
+### Yoo, I'm 6yi 👋
 
 - ⚡ Java/Go/JS.
 - 🖋 Writer at [myblog](https://lzhengycy.gitee.io/blog)
